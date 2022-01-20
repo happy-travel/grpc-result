@@ -9,9 +9,9 @@
         <PackageProjectUrl>https://github.com/happy-travel/grpc-result</PackageProjectUrl>
         <RepositoryUrl>https://github.com/happy-travel/grpc-result</RepositoryUrl>
         <NeutralLanguage>en</NeutralLanguage>
-        <PackageReleaseNotes>Initial</PackageReleaseNotes>
+        <PackageReleaseNotes>Fixed namespace</PackageReleaseNotes>
         <Nullable>enable</Nullable>
-        <Version>0.1.0</Version>
+        <Version>0.1.1</Version>
         <OutputType>Library</OutputType>
         <IsPackable>True</IsPackable>
     </PropertyGroup>

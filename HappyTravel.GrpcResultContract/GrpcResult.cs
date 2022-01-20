@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace GrpcResultContract;
+namespace HappyTravel.GrpcResultContract;
 
 [DataContract]
 public readonly struct GrpcResult<T, E>
