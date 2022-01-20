@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcResultContract", "GrpcResultContract\GrpcResultContract.csproj", "{28CB2F97-577F-450C-B9AE-31DE4267A625}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyTravel.GrpcResultContract", "HappyTravel.GrpcResultContract\HappyTravel.GrpcResultContract.csproj", "{28CB2F97-577F-450C-B9AE-31DE4267A625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
