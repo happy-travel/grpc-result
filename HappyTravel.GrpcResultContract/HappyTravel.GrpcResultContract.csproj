@@ -14,8 +14,6 @@
         <Version>0.1.1</Version>
         <OutputType>Library</OutputType>
         <IsPackable>True</IsPackable>
-        <AssemblyName>HappyTravel.GrpcResultContract</AssemblyName>
-        <RootNamespace>HappyTravel.GrpcResultContract</RootNamespace>
     </PropertyGroup>
 
 </Project>
