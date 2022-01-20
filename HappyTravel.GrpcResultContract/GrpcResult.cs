@@ -14,11 +14,15 @@ public readonly struct GrpcResult<T, E>
     
     
     public E Error 
-        => IsFailure ? _error : throw new NullReferenceException("You attempted to access the Error property for a successful result");
+        => IsFailure 
+            ? _error 
+            : throw new NullReferenceException("You attempted to access the Error property for a successful result");
     
     
     public T Value 
-        => !IsFailure ? _value : throw new NullReferenceException("You attempted to access the Value property for a failed result");
+        => !IsFailure 
+            ? _value 
+            : throw new NullReferenceException("You attempted to access the Value property for a failed result");
     
 
     public static GrpcResult<T, E> Failure(E error) 
