@@ -11,7 +11,7 @@
         <NeutralLanguage>en</NeutralLanguage>
         <PackageReleaseNotes>Fixed namespace</PackageReleaseNotes>
         <Nullable>enable</Nullable>
-        <Version>0.1.1</Version>
+        <Version>0.1.2</Version>
         <OutputType>Library</OutputType>
         <IsPackable>True</IsPackable>
     </PropertyGroup>
