@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Authors>Denis Nikolaev</Authors>
+        <Description>Shared gRPC result contract</Description>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <PackageProjectUrl>https://github.com/happy-travel/grpc-result</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/happy-travel/grpc-result</RepositoryUrl>
+        <NeutralLanguage>en</NeutralLanguage>
+        <PackageReleaseNotes>Initial</PackageReleaseNotes>
+        <Nullable>enable</Nullable>
+        <Version>0.1.0</Version>
+        <OutputType>Library</OutputType>
+        <IsPackable>True</IsPackable>
+    </PropertyGroup>
+
+</Project>
